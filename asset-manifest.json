@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/doit_movie/static/css/main.5a1f230d.css",
+    "main.js": "/doit_movie/static/js/main.87491442.js",
+    "index.html": "/doit_movie/index.html",
+    "main.5a1f230d.css.map": "/doit_movie/static/css/main.5a1f230d.css.map",
+    "main.87491442.js.map": "/doit_movie/static/js/main.87491442.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a1f230d.css",
+    "static/js/main.87491442.js"
+  ]
+}
